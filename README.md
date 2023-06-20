@@ -7,8 +7,9 @@ The Card Management App is a web application built with React that allows users 
 1. Clone the repository:
 
    ```bash
-   gh repo clone https://github.com/kartik298/volopay-FE.git
-   
+   git clone https://github.com/kartik298/volopay-FE.git
+
+   cd volopay-FE
    cd src
    
    npm install
